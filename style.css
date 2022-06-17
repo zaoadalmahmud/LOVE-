@@ -4,7 +4,7 @@ body {
   overflow: hidden;
   background-repeat: no-repeat;
 }
-@media (max-width: 767px){
+@media (max-width: 850px){
   body{
     width: 900px;
   }
