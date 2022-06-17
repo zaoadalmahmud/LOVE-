@@ -4,3 +4,8 @@ body {
   overflow: hidden;
   background-repeat: no-repeat;
 }
+@media (max-width: 767px){
+  body{
+    width: 900px;
+  }
+}
